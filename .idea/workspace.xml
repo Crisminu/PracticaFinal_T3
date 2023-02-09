@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb83ea55-80ba-4dfa-9d7f-257bcdd550a7" name="Changes" comment="Proyecto transferir archivo Servidor-Cliente">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cristina/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cristina/Gestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cristina/Servidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="cb83ea55-80ba-4dfa-9d7f-257bcdd550a7" name="Changes" comment="Proyecto transferir archivo Servidor-Cliente" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +58,26 @@
       <option name="presentableId" value="Default" />
       <updated>1675365387580</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto transferir archivo Servidor-Cliente">
+      <created>1675967251841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675967251841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto transferir archivo" />
